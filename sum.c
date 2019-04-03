@@ -4,7 +4,7 @@
 int main()
 {
      int n,k,sum=0;
-     printf("enter tha value");
+     printf("enter the value");
      scanf("%d%d",&n,&k);
      int a[n];
      for (int i=0;i<n;i++);
